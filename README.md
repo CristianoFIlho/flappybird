@@ -31,17 +31,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 [https://github.com/CristianoFIlho/cristianofilho.github.io](## 🛠 Getting started
 
-Windows:
 
-You can clone the repository through CMD (Command Prompt) just by typing:
-
-```sh
-git clone https://github.com/CristianoFIlho/cristianofilho.github.io.git
-```
-
-or download the zip from the green button at the beginning of the repository
-
-<img src="https://i.ibb.co/9wV77fM/2021-03-24-23-33-11-github-com-678c7637ce45.png" alt="Download zip" border="0">
 
 
 
