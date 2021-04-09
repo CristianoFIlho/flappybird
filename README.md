@@ -29,7 +29,7 @@ Cristiano Filho – [My portfolio](https://cristianofilho.com.br) – dev@cristi
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/CristianoFIlho/cristianofilho.github.io](## 🛠 Getting started
+[https://github.com/CristianoFIlho/cristianofilho.github.io]
 
 
 
