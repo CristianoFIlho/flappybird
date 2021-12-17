@@ -1,6 +1,10 @@
 ##Flappy bird
 
+![flappybird](https://user-images.githubusercontent.com/54041918/146531877-f183b7c9-e1d5-40e9-ba6d-b02626109a1f.gif)
+
+
 ## 🛠 Getting started
+
 
 Windows:
 
